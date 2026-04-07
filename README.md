@@ -3,7 +3,7 @@
 ## Overview
 
 Kriti AI is an enterprise-grade artificial intelligence voice agent platform designed specifically for the hospitality industry. The system leverages advanced natural language processing, real-time speech recognition, and machine learning algorithms to automate hotel and restaurant reservations through natural voice conversations. This solution enables hospitality businesses to provide 24/7 booking services, deliver personalized guest experiences, and optimize revenue through intelligent pricing negotiations.
-
+Demo video - https://youtu.be/gCKDIZbQkXY
 ---
 
 ## Table of Contents
